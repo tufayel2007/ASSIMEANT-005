@@ -24,7 +24,7 @@ function makeCall(service, number) {
   // ⭐  add
   addStars(20);
 
-  alert(service + " এ কল করা হয়েছে ✅");
+  alert(service + " এ কল করা হয়েছে ✅ সতর্ক থাকুন, দায়িত্বশীলভাবে কল করুন।");
 }
 
 // ====== Call History Clear ======
