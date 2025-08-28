@@ -23,7 +23,7 @@ function makeCall(service, number) {
   // ⭐  add
   addStars(20);
 
-  alert(service - " এ কল করা হয়েছে ✅");
+  alert(service + " এ কল করা হয়েছে ✅");
 }
 
 // ====== Call History Clear ======
