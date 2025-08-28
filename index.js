@@ -7,8 +7,9 @@ function makeCall(service, number) {
   const historyList = document.getElementById("historyList");
 
   const li = document.createElement("li");
+
   li.style.cssText =
-    "border:1px solid gray;padding:6px;margin-bottom:4px;border-radius:6px";
+    "border:1px solid gray;padding:6px;margin-bottom:4px;border-radius:6px;background:#f0f0f0;";
 
   li.innerHTML = `
       <div style="display:flex;justify-content:space-between;font-weight:bold">
