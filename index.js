@@ -32,12 +32,8 @@ function increaseLove() {
 }
 // cpppy counter
 let copyCounter = 0;
-
 function copyNumber(number) {
-  // Copy to clipboard
   navigator.clipboard.writeText(number);
-
-  // Counter update
   copyCounter++;
   document.getElementById("copyCounter").textContent = copyCounter;
 }
