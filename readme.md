@@ -4,9 +4,9 @@
 
 <!-- ************ans : to : the : questions ************ -->
 
-1. Selects one element by its unique ID.
-2. Selects all elements with that class returns an HTMLCollection.
-3. Selects the first element that matches a CSS selector.
+\*. Selects one element by its unique ID.
+\*. Selects all elements with that class returns an HTMLCollection.
+\*. Selects the first element that matches a CSS selector.
 
 <!-- =================== questions ==>2 ============================= -->
 
@@ -14,8 +14,8 @@
 
 <!-- ************ans : to : the : questions ************ -->
 
-1. div.spaseContent = "Hello!";
-2. const div = document.createElement("div");
+\*. div.spaseContent = "Hello!";
+\*. const div = document.createElement("div");
 
 <!-- =================== questions ==>3 ============================= -->
 
@@ -23,7 +23,7 @@
 
 <!-- ************ans : to : the : questions ************ -->
 
-1. Event spreads from the bottom to the top – this is called Event Bubbling.
+\*. Event spreads from the bottom to the top – this is called Event Bubbling.
 
 <!-- =================== questions ==>4 ============================= -->
 
@@ -31,7 +31,7 @@
 
 <!-- ************ans : to : the : questions ************ -->
 
-1. Useful because it improves performance and works for dynamically added elements.
+\*. Useful because it improves performance and works for dynamically added elements.
 
 <!-- =================== questions ==>5 ============================= -->
 
@@ -39,4 +39,4 @@
 
    <!-- ************ans : to : the : questions ************ -->
 
-   Stops the default browser behavior like form submit, link open etc.
+\*. Stops the default browser behavior like form submit, link open etc.
